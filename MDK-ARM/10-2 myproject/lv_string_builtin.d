@@ -1,0 +1,16 @@
+10-2 myproject\lv_string_builtin.o: ..\Middlewares\LVGL\lvgl\src\stdlib\builtin\lv_string_builtin.c
+10-2 myproject\lv_string_builtin.o: ..\Middlewares\LVGL\lvgl\src\stdlib\builtin\../../lv_conf_internal.h
+10-2 myproject\lv_string_builtin.o: ..\Middlewares\LVGL\lvgl\src\stdlib\builtin\../../lv_conf_kconfig.h
+10-2 myproject\lv_string_builtin.o: ..\Middlewares\LVGL\lvgl\src\stdlib\builtin\../../../../lv_conf.h
+10-2 myproject\lv_string_builtin.o: ..\Middlewares\LVGL\lvgl\src\stdlib\builtin\../../misc/lv_assert.h
+10-2 myproject\lv_string_builtin.o: ..\Middlewares\LVGL\lvgl\src\stdlib\builtin\../../misc/lv_log.h
+10-2 myproject\lv_string_builtin.o: ..\Middlewares\LVGL\lvgl\src\stdlib\builtin\../../misc/lv_types.h
+10-2 myproject\lv_string_builtin.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+10-2 myproject\lv_string_builtin.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+10-2 myproject\lv_string_builtin.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+10-2 myproject\lv_string_builtin.o: D:\Keil5\ARM\ARMCC\Bin\..\include\inttypes.h
+10-2 myproject\lv_string_builtin.o: D:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+10-2 myproject\lv_string_builtin.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+10-2 myproject\lv_string_builtin.o: ..\Middlewares\LVGL\lvgl\src\stdlib\builtin\../../misc/../stdlib/lv_mem.h
+10-2 myproject\lv_string_builtin.o: ..\Middlewares\LVGL\lvgl\src\stdlib\builtin\../../misc/../stdlib/lv_string.h
+10-2 myproject\lv_string_builtin.o: ..\Middlewares\LVGL\lvgl\src\stdlib\builtin\../../misc/lv_math.h

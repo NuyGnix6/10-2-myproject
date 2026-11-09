@@ -1,0 +1,17 @@
+10-2 myproject\lv_pending.o: ..\Middlewares\LVGL\lvgl\src\misc\lv_pending.c
+10-2 myproject\lv_pending.o: ..\Middlewares\LVGL\lvgl\src\misc\lv_pending.h
+10-2 myproject\lv_pending.o: ..\Middlewares\LVGL\lvgl\src\misc\lv_types.h
+10-2 myproject\lv_pending.o: ..\Middlewares\LVGL\lvgl\src\misc\../lv_conf_internal.h
+10-2 myproject\lv_pending.o: ..\Middlewares\LVGL\lvgl\src\misc\../lv_conf_kconfig.h
+10-2 myproject\lv_pending.o: ..\Middlewares\LVGL\lvgl\src\misc\../../../lv_conf.h
+10-2 myproject\lv_pending.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+10-2 myproject\lv_pending.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+10-2 myproject\lv_pending.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+10-2 myproject\lv_pending.o: D:\Keil5\ARM\ARMCC\Bin\..\include\inttypes.h
+10-2 myproject\lv_pending.o: D:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+10-2 myproject\lv_pending.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+10-2 myproject\lv_pending.o: ..\Middlewares\LVGL\lvgl\src\misc\lv_array.h
+10-2 myproject\lv_pending.o: ..\Middlewares\LVGL\lvgl\src\misc\lv_assert.h
+10-2 myproject\lv_pending.o: ..\Middlewares\LVGL\lvgl\src\misc\lv_log.h
+10-2 myproject\lv_pending.o: ..\Middlewares\LVGL\lvgl\src\misc\../stdlib/lv_mem.h
+10-2 myproject\lv_pending.o: ..\Middlewares\LVGL\lvgl\src\misc\../stdlib/lv_string.h

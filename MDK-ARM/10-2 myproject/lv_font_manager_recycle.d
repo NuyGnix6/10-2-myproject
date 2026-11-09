@@ -1,0 +1,12 @@
+10-2 myproject\lv_font_manager_recycle.o: ..\Middlewares\LVGL\lvgl\src\font\font_manager\lv_font_manager_recycle.c
+10-2 myproject\lv_font_manager_recycle.o: ..\Middlewares\LVGL\lvgl\src\font\font_manager\lv_font_manager_recycle.h
+10-2 myproject\lv_font_manager_recycle.o: ..\Middlewares\LVGL\lvgl\src\font\font_manager\../../misc/lv_types.h
+10-2 myproject\lv_font_manager_recycle.o: ..\Middlewares\LVGL\lvgl\src\font\font_manager\../../misc/../lv_conf_internal.h
+10-2 myproject\lv_font_manager_recycle.o: ..\Middlewares\LVGL\lvgl\src\font\font_manager\../../misc/../lv_conf_kconfig.h
+10-2 myproject\lv_font_manager_recycle.o: ..\Middlewares\LVGL\lvgl\src\font\font_manager\../../misc/../../../lv_conf.h
+10-2 myproject\lv_font_manager_recycle.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+10-2 myproject\lv_font_manager_recycle.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+10-2 myproject\lv_font_manager_recycle.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+10-2 myproject\lv_font_manager_recycle.o: D:\Keil5\ARM\ARMCC\Bin\..\include\inttypes.h
+10-2 myproject\lv_font_manager_recycle.o: D:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+10-2 myproject\lv_font_manager_recycle.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h

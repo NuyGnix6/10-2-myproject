@@ -1,0 +1,14 @@
+10-2 myproject\lv_rtthread.o: ..\Middlewares\LVGL\lvgl\src\osal\lv_rtthread.c
+10-2 myproject\lv_rtthread.o: ..\Middlewares\LVGL\lvgl\src\osal\lv_os_private.h
+10-2 myproject\lv_rtthread.o: ..\Middlewares\LVGL\lvgl\src\osal\../lv_conf_internal.h
+10-2 myproject\lv_rtthread.o: ..\Middlewares\LVGL\lvgl\src\osal\../lv_conf_kconfig.h
+10-2 myproject\lv_rtthread.o: ..\Middlewares\LVGL\lvgl\src\osal\../../../lv_conf.h
+10-2 myproject\lv_rtthread.o: ..\Middlewares\LVGL\lvgl\src\osal\lv_os.h
+10-2 myproject\lv_rtthread.o: ..\Middlewares\LVGL\lvgl\src\osal\../misc/lv_types.h
+10-2 myproject\lv_rtthread.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+10-2 myproject\lv_rtthread.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+10-2 myproject\lv_rtthread.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+10-2 myproject\lv_rtthread.o: D:\Keil5\ARM\ARMCC\Bin\..\include\inttypes.h
+10-2 myproject\lv_rtthread.o: D:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+10-2 myproject\lv_rtthread.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+10-2 myproject\lv_rtthread.o: ..\Middlewares\LVGL\lvgl\src\osal\lv_os_none.h

@@ -1,0 +1,12 @@
+10-2 myproject\lv_vg_lite_pending.o: ..\Middlewares\LVGL\lvgl\src\draw\vg_lite\lv_vg_lite_pending.c
+10-2 myproject\lv_vg_lite_pending.o: ..\Middlewares\LVGL\lvgl\src\draw\vg_lite\lv_vg_lite_pending.h
+10-2 myproject\lv_vg_lite_pending.o: ..\Middlewares\LVGL\lvgl\src\draw\vg_lite\../../misc/lv_types.h
+10-2 myproject\lv_vg_lite_pending.o: ..\Middlewares\LVGL\lvgl\src\draw\vg_lite\../../misc/../lv_conf_internal.h
+10-2 myproject\lv_vg_lite_pending.o: ..\Middlewares\LVGL\lvgl\src\draw\vg_lite\../../misc/../lv_conf_kconfig.h
+10-2 myproject\lv_vg_lite_pending.o: ..\Middlewares\LVGL\lvgl\src\draw\vg_lite\../../misc/../../../lv_conf.h
+10-2 myproject\lv_vg_lite_pending.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+10-2 myproject\lv_vg_lite_pending.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+10-2 myproject\lv_vg_lite_pending.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+10-2 myproject\lv_vg_lite_pending.o: D:\Keil5\ARM\ARMCC\Bin\..\include\inttypes.h
+10-2 myproject\lv_vg_lite_pending.o: D:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+10-2 myproject\lv_vg_lite_pending.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h

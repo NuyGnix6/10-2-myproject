@@ -1,0 +1,13 @@
+10-2 myproject\lv_mem_core_clib.o: ..\Middlewares\LVGL\lvgl\src\stdlib\clib\lv_mem_core_clib.c
+10-2 myproject\lv_mem_core_clib.o: ..\Middlewares\LVGL\lvgl\src\stdlib\clib\../lv_mem.h
+10-2 myproject\lv_mem_core_clib.o: ..\Middlewares\LVGL\lvgl\src\stdlib\clib\../../lv_conf_internal.h
+10-2 myproject\lv_mem_core_clib.o: ..\Middlewares\LVGL\lvgl\src\stdlib\clib\../../lv_conf_kconfig.h
+10-2 myproject\lv_mem_core_clib.o: ..\Middlewares\LVGL\lvgl\src\stdlib\clib\../../../../lv_conf.h
+10-2 myproject\lv_mem_core_clib.o: ..\Middlewares\LVGL\lvgl\src\stdlib\clib\../lv_string.h
+10-2 myproject\lv_mem_core_clib.o: ..\Middlewares\LVGL\lvgl\src\stdlib\clib\../../misc/lv_types.h
+10-2 myproject\lv_mem_core_clib.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+10-2 myproject\lv_mem_core_clib.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+10-2 myproject\lv_mem_core_clib.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+10-2 myproject\lv_mem_core_clib.o: D:\Keil5\ARM\ARMCC\Bin\..\include\inttypes.h
+10-2 myproject\lv_mem_core_clib.o: D:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+10-2 myproject\lv_mem_core_clib.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h

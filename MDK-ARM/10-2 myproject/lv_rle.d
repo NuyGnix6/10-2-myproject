@@ -1,0 +1,13 @@
+10-2 myproject\lv_rle.o: ..\Middlewares\LVGL\lvgl\src\libs\rle\lv_rle.c
+10-2 myproject\lv_rle.o: ..\Middlewares\LVGL\lvgl\src\libs\rle\../../stdlib/lv_string.h
+10-2 myproject\lv_rle.o: ..\Middlewares\LVGL\lvgl\src\libs\rle\../../stdlib/../lv_conf_internal.h
+10-2 myproject\lv_rle.o: ..\Middlewares\LVGL\lvgl\src\libs\rle\../../stdlib/../lv_conf_kconfig.h
+10-2 myproject\lv_rle.o: ..\Middlewares\LVGL\lvgl\src\libs\rle\../../stdlib/../../../lv_conf.h
+10-2 myproject\lv_rle.o: ..\Middlewares\LVGL\lvgl\src\libs\rle\../../stdlib/../misc/lv_types.h
+10-2 myproject\lv_rle.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+10-2 myproject\lv_rle.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+10-2 myproject\lv_rle.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+10-2 myproject\lv_rle.o: D:\Keil5\ARM\ARMCC\Bin\..\include\inttypes.h
+10-2 myproject\lv_rle.o: D:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+10-2 myproject\lv_rle.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+10-2 myproject\lv_rle.o: ..\Middlewares\LVGL\lvgl\src\libs\rle\lv_rle.h

@@ -1,0 +1,5 @@
+{
+    "cmake.configureOnOpen": false,
+    "cmake.sourceDirectory": "D:/STM Cube/10-2 myproject/Drivers/CMSIS/NN",
+    "cmake.autoDetectSourceDirectory": false
+}

@@ -1,0 +1,4 @@
+10-2 myproject\vg_lite_path.o: ..\Middlewares\LVGL\lvgl\src\libs\vg_lite_driver\VGLite\vg_lite_path.c
+10-2 myproject\vg_lite_path.o: ..\Middlewares\LVGL\lvgl\src\libs\vg_lite_driver\VGLite\../../../lv_conf_internal.h
+10-2 myproject\vg_lite_path.o: ..\Middlewares\LVGL\lvgl\src\libs\vg_lite_driver\VGLite\../../../lv_conf_kconfig.h
+10-2 myproject\vg_lite_path.o: ..\Middlewares\LVGL\lvgl\src\libs\vg_lite_driver\VGLite\../../../../../lv_conf.h
